@@ -2,6 +2,7 @@
 
 ## Project Overview
 (Español al final)
+
 This project is based on the **Kaggle Intro to Machine Learning** course. The goal is to build a predictive model for real estate prices using machine learning techniques.
 
 ## Dataset
